@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-service/common-service.iml" filepath="$PROJECT_DIR$/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-api/data-api.iml" filepath="$PROJECT_DIR$/data-api/data-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api/rest-api.iml" filepath="$PROJECT_DIR$/rest-api/rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest.iml" filepath="$PROJECT_DIR$/springBootTest.iml" />
+    </modules>
+  </component>
+</project>
